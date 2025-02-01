@@ -30,7 +30,7 @@ public class Flower {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Flower flowerobj1=new Flower("Rose","Red.");
+		Flower flowerobj1=new Flower("Rose","Red..");
 		Flower flowerobj2=new Flower("Lotus","Pink.");
 		flowerobj1.display();
 		flowerobj2.display();
