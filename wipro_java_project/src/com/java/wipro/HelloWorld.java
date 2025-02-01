@@ -4,7 +4,7 @@
 package com.java.wipro;
 
 /**
- * @author Nikunj
+ * 
  */
 public class HelloWorld {
 

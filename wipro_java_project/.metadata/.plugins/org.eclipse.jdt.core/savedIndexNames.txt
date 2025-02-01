@@ -1,1 +1,0 @@
-INDEX VERSION 1.134+C:\Handson\java\wipro_java_project\.metadata\.plugins\org.eclipse.jdt.core
