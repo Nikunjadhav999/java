@@ -1,4 +1,4 @@
-package com.wipro.java.oops.polymorphism.shape;
+package com.wipro.java.oops.polymorphism.college;
 /*
  * @author Nikunj
  */
