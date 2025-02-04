@@ -17,7 +17,6 @@ public class Unchecked
         {
             System.out.println(" NullPointerException!");
         }
-
         try 
         {
             int[] arr = new int[2];
