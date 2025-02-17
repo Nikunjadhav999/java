@@ -30,7 +30,7 @@ public class HashmapEx{
         numberMap.put("Two", 22); // Overwrite the existing value for key "Two"
         System.out.println("HashMap after changing element 'Two': " + numberMap);
 
-        // Remove an element from the HashMap
+        // xRemove an element from the HashMap
         numberMap.remove("Three");
         System.out.println("HashMap after removing element 'Three': " + numberMap);
 
